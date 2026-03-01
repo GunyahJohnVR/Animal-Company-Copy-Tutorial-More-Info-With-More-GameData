@@ -4,6 +4,7 @@ CREDITS:
 
 Xera - Developer  
 Protogen - Adding to guide
+GunyahJohnVR - Adding Newest Update Gamedata and Changing NativeLib Url
 
 1. Install Base APK & Gamedata
 - Use QuestAppVersionSwitcher to get target APK version
