@@ -2,7 +2,7 @@
 CREDITS:
 
 Xera - Developer  
-GunyahJohnVR - Adding Newest Update Gamedata and Changing NativeLib Url
+GunyahJohnVR - Adding Newest Update Gamedata
 Protogen - Adding to guide
 
 1. Install Base APK & Gamedata
