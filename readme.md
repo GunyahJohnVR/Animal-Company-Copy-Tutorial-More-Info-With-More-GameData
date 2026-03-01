@@ -3,7 +3,8 @@ CREDITS:
 
 Xera - Developer  
 GunyahJohnVR - Newest Gamedata
-Protogen - Adding to guide
+Protogen - 
+Adding to guide
 
 1. Install Base APK & Gamedata
 - Use QuestAppVersionSwitcher to get target APK version
