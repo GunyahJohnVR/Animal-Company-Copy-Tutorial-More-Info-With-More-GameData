@@ -4,7 +4,7 @@ CREDITS:
 
 Xera - Developer  
 
-GunyahJohnVR - Adding Newest Gamedata
+GunyahJohnVR - Adding Newest Gamedata + making backend for newer updates
 
 Protogen - Adding to guide
 
@@ -61,3 +61,6 @@ Protogen - Adding to guide
 
 9. Unobfuscate
 - AI can unobfuscate but you need to remove the comments at the top or it will NOT do it! (and ask it to unhardcode all of it as it will give the same account for EVERYONE!)
+
+10. Newer updates
+- Xeras backend does not work for updates like zombies and such so when i have enough time ill upload a better backend for newer updates
