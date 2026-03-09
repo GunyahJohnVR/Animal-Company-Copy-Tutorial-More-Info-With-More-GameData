@@ -63,4 +63,4 @@ Protogen - Adding to guide
 - AI can unobfuscate but you need to remove the comments at the top or it will NOT do it! (and ask it to unhardcode all of it as it will give the same account for EVERYONE!)
 
 10. Newer updates
-- Xeras backend does not work for updates like zombies and such so when i have enough time ill upload a better backend for newer updates
+- Xeras backend does not work for updates like zombies and such so use the other .py file ill put AND MAKE SURE TO GIVE CREDITS OR YOUR A LIL SKID also make sure your hosting on pythonanywhere for both backends
